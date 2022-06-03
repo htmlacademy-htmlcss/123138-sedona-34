@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Игорь Баранов](https://up.htmlacademy.ru/htmlcss/34/user/123138).
-* Наставник: `Евгений Котов`.
+* Наставник: [Евгений Котов](https://htmlacademy.ru/profile/evgeniy_kotov).
 
 ---
 
